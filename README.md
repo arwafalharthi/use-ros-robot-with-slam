@@ -1,4 +1,4 @@
-# use-ros-robot-with-SLAM
+# use-ROS-robot-with-SLAM
 ## installation
 first we need to install the package
 ```
