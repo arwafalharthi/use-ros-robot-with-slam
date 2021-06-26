@@ -1,6 +1,6 @@
 # use-ros-robot-with-slam
 ## installation
-fisr we need to install the package
+first we need to install the package
 ```
 $ cd catkin_ws/src
 $ git clone https://github.com/devanshdhrafani/diff_drive_bot.git
@@ -26,7 +26,7 @@ $ roslaunch diff_drive_bot gmapping.launch
 ```
 ![rosrobotrviz](https://user-images.githubusercontent.com/85634104/123525699-50fef480-d6db-11eb-801a-1bccba97bf77.png)
 
-TO move the robot and creat the map, in new tab:
+to move the robot and create the map, in new tab:
 ```
 $ rosrun diff_drive_bot keyboard_teleop.py 
 ```
